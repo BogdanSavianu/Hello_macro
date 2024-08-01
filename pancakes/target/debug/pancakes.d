@@ -1,0 +1,1 @@
+/Users/bogdansavianu/Personal_Projects/pancakes/target/debug/pancakes: /Users/bogdansavianu/Personal_Projects/hello_macro/hello_macro_derive/src/lib.rs /Users/bogdansavianu/Personal_Projects/hello_macro/src/lib.rs /Users/bogdansavianu/Personal_Projects/pancakes/src/main.rs
