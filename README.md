@@ -12,8 +12,8 @@ hello_macro = "0.1.0"
 
 Add the following to your crate root:
 
-extern crate hello_macro;
-use hello_macro::HelloMacro;
+extern crate bogdan_hello_macro;
+use bogdan_hello_macro::HelloMacro;
 
 Then, you can use the HelloMacro derive macro on any struct or enum:
 
