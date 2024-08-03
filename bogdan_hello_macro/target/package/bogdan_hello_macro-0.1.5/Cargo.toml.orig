@@ -1,8 +1,0 @@
-[package]
-name = "bogdan_hello_macro"
-version = "0.1.5"
-edition = "2021"
-description = "adds the method hello_macro that generates a greeting based on the name of the struct"
-license = "MIT OR Apache-2.0"
-
-[dependencies]
