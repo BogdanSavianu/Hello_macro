@@ -3,12 +3,16 @@
 version = 3
 
 [[package]]
-name = "hello_macro"
-version = "0.1.0"
+name = "bogdan_hello_macro"
+version = "0.1.5"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "9b31beaa4629e01358d953c724113c068f9a9578bfc505d61c3eef71e3c6aa20"
 
 [[package]]
-name = "hello_macro_derive"
-version = "0.1.0"
+name = "bogdan_hello_macro_derive"
+version = "0.1.5"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "e5f580b7203fa806d761fe481b61b5afa7e70afe5e58b634a83ac6bb59f9be6a"
 dependencies = [
  "quote",
  "syn",
@@ -18,8 +22,8 @@ dependencies = [
 name = "pancakes"
 version = "0.1.0"
 dependencies = [
- "hello_macro",
- "hello_macro_derive",
+ "bogdan_hello_macro",
+ "bogdan_hello_macro_derive",
 ]
 
 [[package]]

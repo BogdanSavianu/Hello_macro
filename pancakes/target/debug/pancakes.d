@@ -1,1 +1,1 @@
-/Users/bogdansavianu/Personal_Projects/Rust/macros/pancakes/target/debug/pancakes: /Users/bogdansavianu/Personal_Projects/Rust/macros/my_hello_macro/hello_macro_derive/src/lib.rs /Users/bogdansavianu/Personal_Projects/Rust/macros/my_hello_macro/src/lib.rs /Users/bogdansavianu/Personal_Projects/Rust/macros/pancakes/src/main.rs
+/Users/bogdansavianu/Personal_Projects/Rust/macros/pancakes/target/debug/pancakes: /Users/bogdansavianu/Personal_Projects/Rust/macros/pancakes/src/main.rs

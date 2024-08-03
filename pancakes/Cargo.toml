@@ -4,5 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-hello_macro = { path = "../bogdan_hello_macro" }
-hello_macro_derive = { path = "../bogdan_hello_macro/hello_macro_derive" }
+bogdan_hello_macro = "0.1.5"
+bogdan_hello_macro_derive = "0.1.5"

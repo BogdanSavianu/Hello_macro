@@ -1,0 +1,1 @@
+/Users/bogdansavianu/Personal_Projects/Rust/macros/bogdan_hello_macro/bogdan_hello_macro_derive/target/package/bogdan_hello_macro_derive-0.1.5/target/debug/libbogdan_hello_macro_derive.dylib: /Users/bogdansavianu/Personal_Projects/Rust/macros/bogdan_hello_macro/bogdan_hello_macro_derive/target/package/bogdan_hello_macro_derive-0.1.5/src/lib.rs
