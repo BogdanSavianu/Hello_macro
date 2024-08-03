@@ -1,0 +1,1 @@
+/Users/bogdansavianu/Personal_Projects/Rust/macros/hello_macro/target/package/hello_macro-0.1.0/target/debug/libhello_macro.rlib: /Users/bogdansavianu/Personal_Projects/Rust/macros/hello_macro/target/package/hello_macro-0.1.0/src/lib.rs
