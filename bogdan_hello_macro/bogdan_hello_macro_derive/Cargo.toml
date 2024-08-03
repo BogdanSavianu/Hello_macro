@@ -1,6 +1,6 @@
 [package]
 name = "bogdan_hello_macro_derive"
-version = "0.1.6"
+version = "0.1.7"
 edition = "2021"
 description = "adds the method hello_macro that generates a greeting based on the name of the struct"
 license = "MIT OR Apache-2.0"

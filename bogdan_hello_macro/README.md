@@ -8,8 +8,8 @@ To use the `HelloMacro` derive macro, add it as a dependency in your `Cargo.toml
 
 ```toml
 [dependencies]
-bogdan_hello_macro = "0.1.6"
-bogdan_hello_macro_derive = "0.1.6"
+bogdan_hello_macro = "0.1.7"
+bogdan_hello_macro_derive = "0.1.7"
 ```
 
 Add the following to your code:
