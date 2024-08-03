@@ -13,5 +13,7 @@
 edition = "2021"
 name = "hello_macro"
 version = "0.1.0"
+description = "adds the method hello_macro that generates a greeting based on the name of the struct"
+license = "MIT or Apache-2.0"
 
 [dependencies]
