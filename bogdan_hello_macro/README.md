@@ -37,10 +37,10 @@ fn main() {
 
 Here’s a complete example demonstrating how to use the HelloMacro derive macro:
 
+```
 use bogdan_hello_macro::HelloMacro;
 use bogdan_hello_macro_derive::HelloMacro;
 
-```
 #[derive(HelloMacro)]
 struct Waffles;
 
